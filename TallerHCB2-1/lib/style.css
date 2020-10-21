@@ -1,0 +1,74 @@
+p.badBunny {
+  text-align: left;
+}
+
+h2 {
+  color: rgba(221, 2, 2, 0.747);
+  font-weight: lighter;
+}
+
+p {
+  color: black;
+}
+
+div {
+  background-color: white;
+}
+
+body {
+  background-color: white;
+}
+
+li {
+  color: black;
+}
+
+a {
+  color: black;
+}
+
+.imagen {
+  width: 140px;
+  height: 140px;
+}
+
+.titulo {
+  text-align: center;
+  font-weight: bold;
+  outline-color: rgb(0, 110, 206);
+  outline-style: solid;
+}
+
+.salida {
+  text-align: right;
+}
+
+.subtitulo {
+  color: rgb(2, 150, 2);
+  text-align: center;
+  font-style: italic;
+  outline-color: rgb(0, 110, 206);
+  outline-style: solid;
+}
+
+.xSiempre {
+  width: 250px;
+  height: 250px;
+}
+
+.yhlqmdlg {
+  width: 250px;
+  height: 250px;
+}
+
+.album1 {
+  text-align: center;
+}
+
+.album2 {
+  text-align: center;
+}
+
+.album {
+  text-align: center;
+}
